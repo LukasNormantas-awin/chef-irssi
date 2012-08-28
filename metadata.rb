@@ -7,4 +7,6 @@ version          '1.0.0'
 
 supports         'debian'
 
+depends          'screen'
+
 recipe           'irssi', 'Installs and configures Irssi'
